@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="assets/brand/autocull-avatar.jpg" width="180" alt="AutoCull logo: a glowing stack of photographs">
+  <img src="assets/brand/autocull-banner.jpg" width="100%" alt="AutoCull: Keep the moment. Lose the repetition. Keep your photographs private. Local, non-destructive, and auditable.">
 </p>
-
-<h1 align="center">AutoCull</h1>
-
-<p align="center"><strong>Keep the moment. Lose the repetition. Keep your photographs private.</strong></p>
 
 AutoCull is an offline, local-first photo review system for Lightroom Classic.
 It is being built to reduce repetitive burst frames, surface the photographs
